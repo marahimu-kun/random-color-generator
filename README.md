@@ -25,6 +25,19 @@ A clean and responsive web app that generates random RGB colors on a button clic
 
 1. Copy or download the code files.
 2. Open `index.html` in any browser.
-3. Click the **Generate a colour** button to see a new color and its RGB code.
+3. Click the **Generate a color** button to see a new color and its RGB code.
 
 ## ✨ Made for practice and learning JavaScript basics.
+
+---
+
+## 👤 Author
+
+Made by marahimu_kun
+Built with ❤️ for learning and fun!
+
+---
+
+## 📜 License
+
+MIT License
